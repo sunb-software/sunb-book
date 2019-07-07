@@ -12,12 +12,14 @@
 
 | **技术** | **说明** | **官网** |
 | :---: | :---: | :---: |
+| Spring Boot | 容器+MVC框架 | [https://spring.io/projects/spring-boot](/  https://spring.io/projects/spring-boot) |
+| MyBatis | ORM框架 | [http://www.mybatis.org/mybatis-3/zh/index.html](http://www.mybatis.org/mybatis-3/zh/index.html) |
+| Redis | 分布式缓存数据库 | [https://redis.io](https://redis.io) |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Jenkins | 持续集成工具 | [https://jenkins.io/index.html](https://jenkins.io/index.html) |
+| Git | 版本控制 | [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2) |
+
+# 
 
 # 开发环境
 
