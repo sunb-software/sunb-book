@@ -10,4 +10,5 @@
   * [文件模块](开发文档/wen-jian-mo-kuai.md)
   * [消息模块](开发文档/xiao-xi-mo-kuai.md)
   * [代码生成](开发文档/dai-ma-sheng-cheng.md)
+  * [云服务端](开发文档/yun-fu-wu-duan.md)
 

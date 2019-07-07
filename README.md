@@ -1,6 +1,6 @@
 # sunb java中台架构
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.zhou
+项目是一套大型java中台服务组件，基于SpringBoot+MyBatis实现
 
 # 前言
 
@@ -20,8 +20,6 @@ This file file serves as your book's preface, a great place to describe your boo
 * WEB服务器：Weblogic、Tomcat、WebSphere、JBoss、Jetty 等
 * 数据库服务器：Mysql8.1
 * 操作系统：Windows、Linux、Unix 等
-
-
 
 
 
